@@ -1,0 +1,17 @@
+.card {
+    margin-top: 50px;
+}
+
+.card-header {
+    font-size: 1.5rem;
+}
+
+.btn-primary {
+    background-color: #3490dc;
+    border-color: #3490dc;
+}
+
+.btn-primary:hover {
+    background-color: #2779bd;
+    border-color: #2779bd;
+}
